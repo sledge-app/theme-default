@@ -1050,28 +1050,58 @@ input:checked + label > .sd-f-wrapper .switch-inactive { display: none; }
 .sd-back-3 { background-image: url("../sledge/medias/seigaiha/seigaiha.png"); }
 .sd-back-4 { background-image: url("../sledge/medias/sakura/sakura.png"); }
 .sd-back-5 { background-image: url("../sledge/medias/circles-and-roundabouts/circles-and-roundabouts.png"); }
-.sd-back-6 { background-image: url("../sledge/medias/images/avenue-2215317_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-7 { background-image: url("../sledge/medias/images/beach-2179183_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-8 { background-image: url("../sledge/medias/images/clouds-2329680_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
-.sd-back-9 { background-image: url("../sledge/medias/images/coffee-1209828_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-10 { background-image: url("../sledge/medias/images/coffee-2306471_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-11 { background-image: url("../sledge/medias/images/desert-2340326_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
-.sd-back-12 { background-image: url("../sledge/medias/images/hand-1549399_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-13 { background-image: url("../sledge/medias/images/lake-2063957_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-14 { background-image: url("../sledge/medias/images/meadow-2184989_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-15 { background-image: url("../sledge/medias/images/roter-sand-2042738_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-16 { background-image: url("../sledge/medias/images/season-1985856_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
-.sd-back-17 { background-image: url("../sledge/medias/images/snow-crystals-1959292_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-18 { background-image: url("../sledge/medias/images/sunset-2180346_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-19 { background-image: url("../sledge/medias/images/tea-lights-2223898_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
-.sd-back-20 { background-image: url("../sledge/medias/images/teacup.jpg"); background-repeat: no-repeat; background-size: cover; }
-.sd-back-21 { background-image: url("../sledge/medias/images/tiger-2320819_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-22 { background-image: url("../sledge/medias/images/tulip-2141216_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-23 { background-image: url("../sledge/medias/images/waffles-2190961_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-24 { background-image: url("../sledge/medias/images/water-1330252_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
-.sd-back-25 { background-image: url("../sledge/medias/images/water-2208931_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
-.sd-back-26 { background-image: url("../sledge/medias/images/wave-2211925_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
 .sd-back-27 { background-image: url("../sledge/medias/images/wintry-2068298_1920.jpg"); background-repeat: no-repeat; background-size: cover; }
+.sd-back-28 { background-image: url("../sledge/medias/circles/circles.png"); }
+.sd-back-29 { background-image: url("../sledge/medias/arab_tile/arab_tile.png"); }
+.sd-back-30 { background-image: url("../sledge/medias/brickwall/brickwall.png"); }
+.sd-back-31 { background-image: url("../sledge/medias/cheap_diagonal_fabric/cheap_diagonal_fabric.png"); }
+.sd-back-32 { background-image: url("../sledge/medias/circles-light/circles-light.png"); }
+.sd-back-33 { background-image: url("../sledge/medias/crisp_paper_ruffles/crisp_paper_ruffles.png"); }
+.sd-back-34 { background-image: url("../sledge/medias/curls/curls.png"); }
+.sd-back-35 { background-image: url("../sledge/medias/dark-triangles/dark-triangles.png"); }
+.sd-back-36 { background-image: url("../sledge/medias/denim/denim.png"); }
+.sd-back-37 { background-image: url("../sledge/medias/doodles/doodles.png"); }
+.sd-back-38 { background-image: url("../sledge/medias/dust_scratches/dust_scratches.png"); }
+.sd-back-39 { background-image: url("../sledge/medias/escheresque_ste/escheresque_ste.png"); }
+.sd-back-40 { background-image: url("../sledge/medias/food/food.png"); }
+.sd-back-41 { background-image: url("../sledge/medias/footer_lodyas/footer_lodyas.png"); }
+.sd-back-42 { background-image: url("../sledge/medias/gaming-pattern/gaming-pattern.png"); }
+.sd-back-43 { background-image: url("../sledge/medias/giftly/giftly.png"); }
+.sd-back-44 { background-image: url("../sledge/medias/halftone-yellow/halftone-yellow.png"); }
+.sd-back-45 { background-image: url("../sledge/medias/hip-square/hip-square.png"); }
+.sd-back-46 { background-image: url("../sledge/medias/intersection/intersection.png"); }
+.sd-back-47 { background-image: url("../sledge/medias/large_leather/large_leather.png"); }
+.sd-back-48 { background-image: url("../sledge/medias/mooning/mooning.png"); }
+.sd-back-49 { background-image: url("../sledge/medias/organic-tiles/organic-tiles.png"); }
+.sd-back-50 { background-image: url("../sledge/medias/paisley/paisley.png"); }
+.sd-back-51 { background-image: url("../sledge/medias/project_papper/project_papper.png"); }
+.sd-back-52 { background-image: url("../sledge/medias/purty_wood/purty_wood.png"); }
+.sd-back-53 { background-image: url("../sledge/medias/tileable_wood_texture/tileable_wood_texture.png"); }
+.sd-back-54 { background-image: url("../sledge/medias/wood_pattern/wood_pattern.png"); }
+.sd-back-55 { background-image: url("../sledge/medias/tree_bark/tree_bark.png"); }
+.sd-back-56 { background-image: url("../sledge/medias/upfeathers/upfeathers.png"); }
+.sd-back-57 { background-image: url("../sledge/medias/restaurant/restaurant.png"); }
+.sd-back-58 { background-image: url("../sledge/medias/restaurant_icons/restaurant_icons.png"); }
+.sd-back-59 { background-image: url("../sledge/medias/school/school.png"); }
+.sd-back-60 { background-image: url("../sledge/medias/spiration_dark/spiration_dark.png"); }
+.sd-back-61 { background-image: url("../sledge/medias/spiration_light/spiration_light.png"); }
+.sd-back-62 { background-image: url("../sledge/medias/subtle_stripes/subtle_stripes.png"); }
+.sd-back-63 { background-image: url("../sledge/medias/vintage-concrete/vintage-concrete.png"); }
+.sd-back-64 { background-image: url("../sledge/medias/xv/xv.png"); }
+.sd-back-65 { background-image: url("../sledge/medias/zig_zag_wool/zig_zag_wool.png"); }
 div.sg_text_columns { column-rule: 1px solid rgb(171, 196, 213); }
 .sg-color-scheme-1-text, a.sg-color-scheme-1-text { color: rgb(23, 121, 186) !important; }
 .sg-color-scheme-2-text, a.sg-color-scheme-2-text { color: rgb(171, 196, 213) !important; }
